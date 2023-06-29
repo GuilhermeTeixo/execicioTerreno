@@ -1,4 +1,4 @@
-package execiciosUdemy;
+package execicioTerreno;
 import java.util.Locale;
 import java.util.Scanner;
 
